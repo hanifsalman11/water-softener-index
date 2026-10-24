@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "system_name": "Fleck 5600SXT 48,000 Grain Digital Metered Softener",
+    "slug": "fleck-5600sxt-48000-grain-digital-metered-softener-grain-salt-calculator",
+    "title": "Fleck 5600SXT 48,000 Grain Digital Metered Softener Sizing, Salt Dose & GPG Hardness Calculator (2026)",
+    "description": "Calculate exact daily grain load (5,100 grains/day), optimal brine salt dosage (12.0 lbs), regeneration frequency (7 days), and RO pairing for Fleck 5600SXT 48,000 Grain Digital Metered Softener.",
+    "grains": 48000,
+    "cuft": 1.5,
+    "flow_gpm": 12.0,
+    "date": "2026-10-24"
+  },
+  {
+    "system_name": "Fleck 5600SXT 64,000 Grain Whole-House Softener",
+    "slug": "fleck-5600sxt-64000-grain-whole-house-softener-grain-salt-calculator",
+    "title": "Fleck 5600SXT 64,000 Grain Whole-House Softener Sizing, Salt Dose & GPG Hardness Calculator (2026)",
+    "description": "Calculate exact daily grain load (9,000 grains/day), optimal brine salt dosage (16.0 lbs), regeneration frequency (5 days), and RO pairing for Fleck 5600SXT 64,000 Grain Whole-House Softener.",
+    "grains": 64000,
+    "cuft": 2.0,
+    "flow_gpm": 15.0,
+    "date": "2026-10-24"
+  },
+  {
+    "system_name": "Fleck 5600SXT 32,000 Grain Compact Water Softener",
+    "slug": "fleck-5600sxt-32000-grain-compact-water-softener-grain-salt-calculator",
+    "title": "Fleck 5600SXT 32,000 Grain Compact Water Softener Sizing, Salt Dose & GPG Hardness Calculator (2026)",
+    "description": "Calculate exact daily grain load (1,800 grains/day), optimal brine salt dosage (8.0 lbs), regeneration frequency (13 days), and RO pairing for Fleck 5600SXT 32,000 Grain Compact Water Softener.",
+    "grains": 32000,
+    "cuft": 1.0,
+    "flow_gpm": 10.0,
+    "date": "2026-10-24"
+  }
+]

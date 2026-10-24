@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en" class="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>GrainSoftenerIndex — Water Softener Grain Capacity, GPG Hardness & Salt Calculator (2026)</title>
+  <meta name="description" content="Calculate exact water softener grain capacity (32K, 48K, 64K, 80K), Fleck 5600SXT & Clack WS1 salt settings, well water iron compensation, and RO sizing.">
+  <link rel="canonical" href="https://hanifsalman11.github.io/water-softener-index/">
+  <link rel="alternate" type="application/rss+xml" title="GrainSoftenerIndex RSS Feed" href="https://hanifsalman11.github.io/water-softener-index/rss.xml">
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-slate-950 text-slate-100 min-h-screen flex flex-col">
+  <header class="border-b border-slate-800 bg-slate-900/80 sticky top-0 z-30 backdrop-blur">
+    <div class="max-w-5xl mx-auto px-4 py-3.5 flex items-center justify-between">
+      <div class="text-lg font-black text-white flex items-center gap-2">
+        <span class="bg-indigo-500 text-white px-2 py-0.5 rounded font-black">GRAIN</span>SoftenerIndex
+      </div>
+      <a href="https://www.amazon.com/s?k=Whole%2BHouse%2BWater%2BSoftener%2BSystem%2B48000%2B64000%2BGrain%2BFleck%2BAquasure&tag=salmanrevie04-20" target="_blank" rel="nofollow sponsored" class="text-xs sm:text-sm bg-indigo-500 hover:bg-indigo-400 text-white font-extrabold px-3.5 py-2 rounded-lg transition">
+        Shop Whole-House Water Softeners on Amazon →
+      </a>
+    </div>
+  </header>
+
+  <main class="max-w-5xl mx-auto px-4 py-12 flex-1 w-full">
+    <div class="text-center max-w-2xl mx-auto mb-10">
+      <h1 class="text-3xl sm:text-5xl font-black text-white tracking-tight">Water Softener Grain Capacity & Salt Dosage Database</h1>
+      <p class="text-slate-400 mt-3 text-base sm:text-lg">Select your water softener system or household hardness profile below to calculate daily grain load, optimal brine salt dosage (lbs), and valve programming specs.</p>
+      <div class="mt-6">
+        <input id="filterInput" type="text" placeholder="Search model or hardness (e.g. Fleck 5600SXT, Aquasure 64000, SpringWell, Clack WS1, Well Water Iron...)" class="w-full bg-slate-900 border border-slate-700 rounded-xl px-4 py-3.5 text-sm text-white focus:outline-none focus:border-indigo-500">
+      </div>
+    </div>
+
+    <div id="softGrid" class="grid sm:grid-cols-2 lg:grid-cols-3 gap-5">
+        <a href="fleck-5600sxt-32000-grain-compact-water-softener-grain-salt-calculator.html" class="block bg-slate-900 border border-slate-800 hover:border-indigo-500/60 rounded-xl p-5 transition group">
+          <div class="flex items-center justify-between mb-2">
+            <span class="text-xs font-black uppercase bg-indigo-500 text-white px-2.5 py-0.5 rounded">32,000 Grain (1.0 ft³)</span>
+            <span class="text-xs text-slate-400">10.0 GPM Flow</span>
+          </div>
+          <h2 class="text-base font-bold text-white group-hover:text-indigo-400 transition">Fleck 5600SXT 32,000 Grain Compact Water Softener Calculator</h2>
+          <p class="text-xs text-slate-400 mt-2 line-clamp-2">Calculate exact daily grain load (1,800 grains/day), optimal brine salt dosage (8.0 lbs), regeneration frequency (13 days), and RO pairing for Fleck 5600SXT 32,000 Grain Compact Water Softener.</p>
+          <span class="inline-block mt-4 text-xs font-extrabold text-indigo-400">Calculate Grain Size & Salt Dose →</span>
+        </a>
+        <a href="fleck-5600sxt-64000-grain-whole-house-softener-grain-salt-calculator.html" class="block bg-slate-900 border border-slate-800 hover:border-indigo-500/60 rounded-xl p-5 transition group">
+          <div class="flex items-center justify-between mb-2">
+            <span class="text-xs font-black uppercase bg-indigo-500 text-white px-2.5 py-0.5 rounded">64,000 Grain (2.0 ft³)</span>
+            <span class="text-xs text-slate-400">15.0 GPM Flow</span>
+          </div>
+          <h2 class="text-base font-bold text-white group-hover:text-indigo-400 transition">Fleck 5600SXT 64,000 Grain Whole-House Softener Calculator</h2>
+          <p class="text-xs text-slate-400 mt-2 line-clamp-2">Calculate exact daily grain load (9,000 grains/day), optimal brine salt dosage (16.0 lbs), regeneration frequency (5 days), and RO pairing for Fleck 5600SXT 64,000 Grain Whole-House Softener.</p>
+          <span class="inline-block mt-4 text-xs font-extrabold text-indigo-400">Calculate Grain Size & Salt Dose →</span>
+        </a>
+        <a href="fleck-5600sxt-48000-grain-digital-metered-softener-grain-salt-calculator.html" class="block bg-slate-900 border border-slate-800 hover:border-indigo-500/60 rounded-xl p-5 transition group">
+          <div class="flex items-center justify-between mb-2">
+            <span class="text-xs font-black uppercase bg-indigo-500 text-white px-2.5 py-0.5 rounded">48,000 Grain (1.5 ft³)</span>
+            <span class="text-xs text-slate-400">12.0 GPM Flow</span>
+          </div>
+          <h2 class="text-base font-bold text-white group-hover:text-indigo-400 transition">Fleck 5600SXT 48,000 Grain Digital Metered Softener Calculator</h2>
+          <p class="text-xs text-slate-400 mt-2 line-clamp-2">Calculate exact daily grain load (5,100 grains/day), optimal brine salt dosage (12.0 lbs), regeneration frequency (7 days), and RO pairing for Fleck 5600SXT 48,000 Grain Digital Metered Softener.</p>
+          <span class="inline-block mt-4 text-xs font-extrabold text-indigo-400">Calculate Grain Size & Salt Dose →</span>
+        </a></div>
+  </main>
+
+  <footer class="border-t border-slate-800 py-8 text-center text-xs text-slate-500">
+    <p>© 2026 GrainSoftenerIndex. As an Amazon Associate, we earn from qualifying purchases.</p>
+  </footer>
+
+  <script>
+    const filterInput = document.getElementById('filterInput');
+    const cards = Array.from(document.getElementById('softGrid').children);
+    filterInput.addEventListener('input', (e) => {
+      const q = e.target.value.toLowerCase();
+      cards.forEach(c => {
+        c.style.display = c.textContent.toLowerCase().includes(q) ? 'block' : 'none';
+      });
+    });
+  </script>
+</body>
+</html>
