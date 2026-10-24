@@ -28,5 +28,35 @@
     "cuft": 1.0,
     "flow_gpm": 10.0,
     "date": "2026-10-24"
+  },
+  {
+    "system_name": "Aquasure Harmony Series 48,000 Grain Water Softener",
+    "slug": "aquasure-harmony-series-48000-grain-water-softener-grain-salt-calculator",
+    "title": "Aquasure Harmony Series 48,000 Grain Water Softener Sizing, Salt Dose & GPG Hardness Calculator (2026)",
+    "description": "Calculate exact daily grain load (5,400 grains/day), optimal brine salt dosage (12.0 lbs), regeneration frequency (7 days), and RO pairing for Aquasure Harmony Series 48,000 Grain Water Softener.",
+    "grains": 48000,
+    "cuft": 1.5,
+    "flow_gpm": 12.5,
+    "date": "2026-10-24"
+  },
+  {
+    "system_name": "Aquasure Harmony Series 64,000 Grain High-Capacity",
+    "slug": "aquasure-harmony-series-64000-grain-high-capacity-grain-salt-calculator",
+    "title": "Aquasure Harmony Series 64,000 Grain High-Capacity Sizing, Salt Dose & GPG Hardness Calculator (2026)",
+    "description": "Calculate exact daily grain load (9,900 grains/day), optimal brine salt dosage (16.0 lbs), regeneration frequency (5 days), and RO pairing for Aquasure Harmony Series 64,000 Grain High-Capacity.",
+    "grains": 64000,
+    "cuft": 2.0,
+    "flow_gpm": 15.0,
+    "date": "2026-10-24"
+  },
+  {
+    "system_name": "SpringWell SS1 32,000 Grain Salt-Based Softener",
+    "slug": "springwell-ss1-32000-grain-salt-based-softener-grain-salt-calculator",
+    "title": "SpringWell SS1 32,000 Grain Salt-Based Softener Sizing, Salt Dose & GPG Hardness Calculator (2026)",
+    "description": "Calculate exact daily grain load (2,700 grains/day), optimal brine salt dosage (8.0 lbs), regeneration frequency (9 days), and RO pairing for SpringWell SS1 32,000 Grain Salt-Based Softener.",
+    "grains": 32000,
+    "cuft": 1.0,
+    "flow_gpm": 11.0,
+    "date": "2026-10-24"
   }
 ]
