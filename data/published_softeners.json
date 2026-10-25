@@ -58,5 +58,35 @@
     "cuft": 1.0,
     "flow_gpm": 11.0,
     "date": "2026-10-24"
+  },
+  {
+    "system_name": "SpringWell SS4 48,000 Grain Bluetooth Water Softener",
+    "slug": "springwell-ss4-48000-grain-bluetooth-water-softener-grain-salt-calculator",
+    "title": "SpringWell SS4 48,000 Grain Bluetooth Water Softener Sizing, Salt Dose & GPG Hardness Calculator (2026)",
+    "description": "Calculate exact daily grain load (5,100 grains/day), optimal brine salt dosage (12.0 lbs), regeneration frequency (7 days), and RO pairing for SpringWell SS4 48,000 Grain Bluetooth Water Softener.",
+    "grains": 48000,
+    "cuft": 1.5,
+    "flow_gpm": 13.0,
+    "date": "2026-10-25"
+  },
+  {
+    "system_name": "SpringWell SS+ 80,000 Grain Large Estate Softener",
+    "slug": "springwell-ss-80000-grain-large-estate-softener-grain-salt-calculator",
+    "title": "SpringWell SS+ 80,000 Grain Large Estate Softener Sizing, Salt Dose & GPG Hardness Calculator (2026)",
+    "description": "Calculate exact daily grain load (14,700 grains/day), optimal brine salt dosage (20.0 lbs), regeneration frequency (4 days), and RO pairing for SpringWell SS+ 80,000 Grain Large Estate Softener.",
+    "grains": 80000,
+    "cuft": 2.5,
+    "flow_gpm": 20.0,
+    "date": "2026-10-25"
+  },
+  {
+    "system_name": "Whirlpool WHES40E 40,000 Grain Demand-Initiated Softener",
+    "slug": "whirlpool-whes40e-40000-grain-demand-initiated-softener-grain-salt-calculator",
+    "title": "Whirlpool WHES40E 40,000 Grain Demand-Initiated Softener Sizing, Salt Dose & GPG Hardness Calculator (2026)",
+    "description": "Calculate exact daily grain load (4,800 grains/day), optimal brine salt dosage (10.0 lbs), regeneration frequency (6 days), and RO pairing for Whirlpool WHES40E 40,000 Grain Demand-Initiated Softener.",
+    "grains": 40000,
+    "cuft": 1.25,
+    "flow_gpm": 10.0,
+    "date": "2026-10-25"
   }
 ]
