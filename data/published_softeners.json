@@ -118,5 +118,35 @@
     "cuft": 1.25,
     "flow_gpm": 9.5,
     "date": "2026-10-25"
+  },
+  {
+    "system_name": "Clack WS1 48,000 Grain Pro-Grade 10% Crosslink Softener",
+    "slug": "clack-ws1-48000-grain-pro-grade-10-crosslink-softener-grain-salt-calculator",
+    "title": "Clack WS1 48,000 Grain Pro-Grade 10% Crosslink Softener Sizing, Salt Dose & GPG Hardness Calculator (2026)",
+    "description": "Calculate exact daily grain load (6,000 grains/day), optimal brine salt dosage (12.0 lbs), regeneration frequency (6 days), and RO pairing for Clack WS1 48,000 Grain Pro-Grade 10% Crosslink Softener.",
+    "grains": 48000,
+    "cuft": 1.5,
+    "flow_gpm": 15.0,
+    "date": "2026-10-25"
+  },
+  {
+    "system_name": "Clack WS1 64,000 Grain High-Efficiency Well Water Softener",
+    "slug": "clack-ws1-64000-grain-high-efficiency-well-water-softener-grain-salt-calculator",
+    "title": "Clack WS1 64,000 Grain High-Efficiency Well Water Softener Sizing, Salt Dose & GPG Hardness Calculator (2026)",
+    "description": "Calculate exact daily grain load (10,500 grains/day), optimal brine salt dosage (16.0 lbs), regeneration frequency (5 days), and RO pairing for Clack WS1 64,000 Grain High-Efficiency Well Water Softener.",
+    "grains": 64000,
+    "cuft": 2.0,
+    "flow_gpm": 18.0,
+    "date": "2026-10-25"
+  },
+  {
+    "system_name": "Fleck 9100SXT Twin-Tank 48,000 Grain Continuous Softener",
+    "slug": "fleck-9100sxt-twin-tank-48000-grain-continuous-softener-grain-salt-calculator",
+    "title": "Fleck 9100SXT Twin-Tank 48,000 Grain Continuous Softener Sizing, Salt Dose & GPG Hardness Calculator (2026)",
+    "description": "Calculate exact daily grain load (8,250 grains/day), optimal brine salt dosage (12.0 lbs), regeneration frequency (4 days), and RO pairing for Fleck 9100SXT Twin-Tank 48,000 Grain Continuous Softener.",
+    "grains": 48000,
+    "cuft": 1.5,
+    "flow_gpm": 14.0,
+    "date": "2026-10-25"
   }
 ]
