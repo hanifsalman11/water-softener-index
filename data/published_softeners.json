@@ -88,5 +88,35 @@
     "cuft": 1.25,
     "flow_gpm": 10.0,
     "date": "2026-10-25"
+  },
+  {
+    "system_name": "Whirlpool WHES44 44,000 Grain Pro Series Softener",
+    "slug": "whirlpool-whes44-44000-grain-pro-series-softener-grain-salt-calculator",
+    "title": "Whirlpool WHES44 44,000 Grain Pro Series Softener Sizing, Salt Dose & GPG Hardness Calculator (2026)",
+    "description": "Calculate exact daily grain load (6,000 grains/day), optimal brine salt dosage (11.2 lbs), regeneration frequency (6 days), and RO pairing for Whirlpool WHES44 44,000 Grain Pro Series Softener.",
+    "grains": 44000,
+    "cuft": 1.4,
+    "flow_gpm": 11.0,
+    "date": "2026-10-25"
+  },
+  {
+    "system_name": "Rheem Preferred Platinum 42,000 Grain WiFi Softener",
+    "slug": "rheem-preferred-platinum-42000-grain-wifi-softener-grain-salt-calculator",
+    "title": "Rheem Preferred Platinum 42,000 Grain WiFi Softener Sizing, Salt Dose & GPG Hardness Calculator (2026)",
+    "description": "Calculate exact daily grain load (5,100 grains/day), optimal brine salt dosage (10.4 lbs), regeneration frequency (6 days), and RO pairing for Rheem Preferred Platinum 42,000 Grain WiFi Softener.",
+    "grains": 42000,
+    "cuft": 1.3,
+    "flow_gpm": 10.5,
+    "date": "2026-10-25"
+  },
+  {
+    "system_name": "GE GXSH40V 40,200 Grain Smart Water Softener",
+    "slug": "ge-gxsh40v-40200-grain-smart-water-softener-grain-salt-calculator",
+    "title": "GE GXSH40V 40,200 Grain Smart Water Softener Sizing, Salt Dose & GPG Hardness Calculator (2026)",
+    "description": "Calculate exact daily grain load (4,800 grains/day), optimal brine salt dosage (10.0 lbs), regeneration frequency (6 days), and RO pairing for GE GXSH40V 40,200 Grain Smart Water Softener.",
+    "grains": 40000,
+    "cuft": 1.25,
+    "flow_gpm": 9.5,
+    "date": "2026-10-25"
   }
 ]
