@@ -208,5 +208,35 @@
     "cuft": 1.1,
     "flow_gpm": 10.0,
     "date": "2026-10-26"
+  },
+  {
+    "system_name": "Morton M30 30,000 Grain Compact Whole-Home Softener",
+    "slug": "morton-m30-30000-grain-compact-whole-home-softener-grain-salt-calculator",
+    "title": "Morton M30 30,000 Grain Compact Whole-Home Softener Sizing, Salt Dose & GPG Hardness Calculator (2026)",
+    "description": "Calculate exact daily grain load (2,700 grains/day), optimal brine salt dosage (8.0 lbs), regeneration frequency (9 days), and RO pairing for Morton M30 30,000 Grain Compact Whole-Home Softener.",
+    "grains": 30000,
+    "cuft": 1.0,
+    "flow_gpm": 9.0,
+    "date": "2026-10-26"
+  },
+  {
+    "system_name": "Culligan Medallist Series 45,000 Grain Replacement Sizing",
+    "slug": "culligan-medallist-series-45000-grain-replacement-sizing-grain-salt-calculator",
+    "title": "Culligan Medallist Series 45,000 Grain Replacement Sizing Sizing, Salt Dose & GPG Hardness Calculator (2026)",
+    "description": "Calculate exact daily grain load (5,400 grains/day), optimal brine salt dosage (12.0 lbs), regeneration frequency (7 days), and RO pairing for Culligan Medallist Series 45,000 Grain Replacement Sizing.",
+    "grains": 45000,
+    "cuft": 1.5,
+    "flow_gpm": 12.0,
+    "date": "2026-10-26"
+  },
+  {
+    "system_name": "Kinetico Premier Series Twin-Tank Non-Electric Sizing",
+    "slug": "kinetico-premier-series-twin-tank-non-electric-sizing-grain-salt-calculator",
+    "title": "Kinetico Premier Series Twin-Tank Non-Electric Sizing Sizing, Salt Dose & GPG Hardness Calculator (2026)",
+    "description": "Calculate exact daily grain load (6,600 grains/day), optimal brine salt dosage (12.0 lbs), regeneration frequency (5 days), and RO pairing for Kinetico Premier Series Twin-Tank Non-Electric Sizing.",
+    "grains": 48000,
+    "cuft": 1.5,
+    "flow_gpm": 14.0,
+    "date": "2026-10-26"
   }
 ]
