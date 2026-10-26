@@ -178,5 +178,35 @@
     "cuft": 2.0,
     "flow_gpm": 15.0,
     "date": "2026-10-25"
+  },
+  {
+    "system_name": "SoftPro Elite 48,000 Grain Upflow High-Efficiency Softener",
+    "slug": "softpro-elite-48000-grain-upflow-high-efficiency-softener-grain-salt-calculator",
+    "title": "SoftPro Elite 48,000 Grain Upflow High-Efficiency Softener Sizing, Salt Dose & GPG Hardness Calculator (2026)",
+    "description": "Calculate exact daily grain load (5,400 grains/day), optimal brine salt dosage (12.0 lbs), regeneration frequency (7 days), and RO pairing for SoftPro Elite 48,000 Grain Upflow High-Efficiency Softener.",
+    "grains": 48000,
+    "cuft": 1.5,
+    "flow_gpm": 13.0,
+    "date": "2026-10-26"
+  },
+  {
+    "system_name": "SoftPro IronMaster AIO + 64,000 Grain Well Water Combo",
+    "slug": "softpro-ironmaster-aio-64000-grain-well-water-combo-grain-salt-calculator",
+    "title": "SoftPro IronMaster AIO + 64,000 Grain Well Water Combo Sizing, Salt Dose & GPG Hardness Calculator (2026)",
+    "description": "Calculate exact daily grain load (12,000 grains/day), optimal brine salt dosage (16.0 lbs), regeneration frequency (4 days), and RO pairing for SoftPro IronMaster AIO + 64,000 Grain Well Water Combo.",
+    "grains": 64000,
+    "cuft": 2.0,
+    "flow_gpm": 15.0,
+    "date": "2026-10-26"
+  },
+  {
+    "system_name": "WaterBoss 36,400 Grain High-Efficiency Cabinet Softener",
+    "slug": "waterboss-36400-grain-high-efficiency-cabinet-softener-grain-salt-calculator",
+    "title": "WaterBoss 36,400 Grain High-Efficiency Cabinet Softener Sizing, Salt Dose & GPG Hardness Calculator (2026)",
+    "description": "Calculate exact daily grain load (4,725 grains/day), optimal brine salt dosage (8.8 lbs), regeneration frequency (6 days), and RO pairing for WaterBoss 36,400 Grain High-Efficiency Cabinet Softener.",
+    "grains": 36000,
+    "cuft": 1.1,
+    "flow_gpm": 10.0,
+    "date": "2026-10-26"
   }
 ]
