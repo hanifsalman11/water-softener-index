@@ -238,5 +238,35 @@
     "cuft": 1.5,
     "flow_gpm": 14.0,
     "date": "2026-10-26"
+  },
+  {
+    "system_name": "4-Person Family Home with 15 GPG Hard Water",
+    "slug": "4-person-family-home-with-15-gpg-hard-water-grain-salt-calculator",
+    "title": "4-Person Family Home with 15 GPG Hard Water Sizing, Salt Dose & GPG Hardness Calculator (2026)",
+    "description": "Calculate exact daily grain load (5,100 grains/day), optimal brine salt dosage (12.0 lbs), regeneration frequency (7 days), and RO pairing for 4-Person Family Home with 15 GPG Hard Water.",
+    "grains": 48000,
+    "cuft": 1.5,
+    "flow_gpm": 12.0,
+    "date": "2026-10-26"
+  },
+  {
+    "system_name": "5-Person Household with 20 GPG Very Hard Water",
+    "slug": "5-person-household-with-20-gpg-very-hard-water-grain-salt-calculator",
+    "title": "5-Person Household with 20 GPG Very Hard Water Sizing, Salt Dose & GPG Hardness Calculator (2026)",
+    "description": "Calculate exact daily grain load (9,000 grains/day), optimal brine salt dosage (16.0 lbs), regeneration frequency (5 days), and RO pairing for 5-Person Household with 20 GPG Very Hard Water.",
+    "grains": 64000,
+    "cuft": 2.0,
+    "flow_gpm": 15.0,
+    "date": "2026-10-26"
+  },
+  {
+    "system_name": "6-Person Large Home with 25 GPG Extreme Hard Water",
+    "slug": "6-person-large-home-with-25-gpg-extreme-hard-water-grain-salt-calculator",
+    "title": "6-Person Large Home with 25 GPG Extreme Hard Water Sizing, Salt Dose & GPG Hardness Calculator (2026)",
+    "description": "Calculate exact daily grain load (13,950 grains/day), optimal brine salt dosage (20.0 lbs), regeneration frequency (4 days), and RO pairing for 6-Person Large Home with 25 GPG Extreme Hard Water.",
+    "grains": 80000,
+    "cuft": 2.5,
+    "flow_gpm": 18.0,
+    "date": "2026-10-26"
   }
 ]
