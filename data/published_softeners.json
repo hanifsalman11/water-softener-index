@@ -298,5 +298,35 @@
     "cuft": 2.0,
     "flow_gpm": 15.0,
     "date": "2026-10-27"
+  },
+  {
+    "system_name": "Family Of 4",
+    "slug": "family-of-4-grain-salt-calculator",
+    "title": "Family Of 4 Sizing, Salt Dose & GPG Hardness Calculator (2026)",
+    "description": "Calculate exact daily grain load (5,100 grains/day), optimal brine salt dosage (12.0 lbs), regeneration frequency (7 days), and RO pairing for Family Of 4.",
+    "grains": 48000,
+    "cuft": 1.5,
+    "flow_gpm": 12.5,
+    "date": "2026-10-27"
+  },
+  {
+    "system_name": "Family Of 2",
+    "slug": "family-of-2-grain-salt-calculator",
+    "title": "Family Of 2 Sizing, Salt Dose & GPG Hardness Calculator (2026)",
+    "description": "Calculate exact daily grain load (5,100 grains/day), optimal brine salt dosage (12.0 lbs), regeneration frequency (7 days), and RO pairing for Family Of 2.",
+    "grains": 48000,
+    "cuft": 1.5,
+    "flow_gpm": 12.5,
+    "date": "2026-10-27"
+  },
+  {
+    "system_name": "Family Of 5",
+    "slug": "family-of-5-grain-salt-calculator",
+    "title": "Family Of 5 Sizing, Salt Dose & GPG Hardness Calculator (2026)",
+    "description": "Calculate exact daily grain load (5,100 grains/day), optimal brine salt dosage (12.0 lbs), regeneration frequency (7 days), and RO pairing for Family Of 5.",
+    "grains": 48000,
+    "cuft": 1.5,
+    "flow_gpm": 12.5,
+    "date": "2026-10-27"
   }
 ]
