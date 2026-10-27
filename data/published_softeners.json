@@ -328,5 +328,35 @@
     "cuft": 1.5,
     "flow_gpm": 12.5,
     "date": "2026-10-27"
+  },
+  {
+    "system_name": "2 People",
+    "slug": "2-people-grain-salt-calculator",
+    "title": "2 People Sizing, Salt Dose & GPG Hardness Calculator (2026)",
+    "description": "Calculate exact daily grain load (5,100 grains/day), optimal brine salt dosage (12.0 lbs), regeneration frequency (7 days), and RO pairing for 2 People.",
+    "grains": 48000,
+    "cuft": 1.5,
+    "flow_gpm": 12.5,
+    "date": "2026-10-27"
+  },
+  {
+    "system_name": "Family Of 6",
+    "slug": "family-of-6-grain-salt-calculator",
+    "title": "Family Of 6 Sizing, Salt Dose & GPG Hardness Calculator (2026)",
+    "description": "Calculate exact daily grain load (5,100 grains/day), optimal brine salt dosage (12.0 lbs), regeneration frequency (7 days), and RO pairing for Family Of 6.",
+    "grains": 48000,
+    "cuft": 1.5,
+    "flow_gpm": 12.5,
+    "date": "2026-10-27"
+  },
+  {
+    "system_name": "3 Bathroom House",
+    "slug": "3-bathroom-house-grain-salt-calculator",
+    "title": "3 Bathroom House Sizing, Salt Dose & GPG Hardness Calculator (2026)",
+    "description": "Calculate exact daily grain load (5,100 grains/day), optimal brine salt dosage (12.0 lbs), regeneration frequency (7 days), and RO pairing for 3 Bathroom House.",
+    "grains": 48000,
+    "cuft": 1.5,
+    "flow_gpm": 12.5,
+    "date": "2026-10-27"
   }
 ]
