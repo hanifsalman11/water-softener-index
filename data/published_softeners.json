@@ -388,5 +388,35 @@
     "cuft": 1.5,
     "flow_gpm": 12.5,
     "date": "2026-10-28"
+  },
+  {
+    "system_name": "My House",
+    "slug": "my-house-grain-salt-calculator",
+    "title": "My House Sizing, Salt Dose & GPG Hardness Calculator (2026)",
+    "description": "Calculate exact daily grain load (5,100 grains/day), optimal brine salt dosage (12.0 lbs), regeneration frequency (7 days), and RO pairing for My House.",
+    "grains": 48000,
+    "cuft": 1.5,
+    "flow_gpm": 12.5,
+    "date": "2026-10-28"
+  },
+  {
+    "system_name": "Water Softener",
+    "slug": "water-softener-grain-salt-calculator",
+    "title": "Water Softener Sizing, Salt Dose & GPG Hardness Calculator (2026)",
+    "description": "Calculate exact daily grain load (5,100 grains/day), optimal brine salt dosage (12.0 lbs), regeneration frequency (7 days), and RO pairing for Water Softener.",
+    "grains": 48000,
+    "cuft": 1.5,
+    "flow_gpm": 12.5,
+    "date": "2026-10-28"
+  },
+  {
+    "system_name": "48 000 Grain",
+    "slug": "48-000-grain-grain-salt-calculator",
+    "title": "48 000 Grain Sizing, Salt Dose & GPG Hardness Calculator (2026)",
+    "description": "Calculate exact daily grain load (5,100 grains/day), optimal brine salt dosage (12.0 lbs), regeneration frequency (7 days), and RO pairing for 48 000 Grain.",
+    "grains": 48000,
+    "cuft": 1.5,
+    "flow_gpm": 12.5,
+    "date": "2026-10-28"
   }
 ]
