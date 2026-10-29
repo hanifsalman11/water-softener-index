@@ -448,5 +448,35 @@
     "cuft": 1.5,
     "flow_gpm": 12.5,
     "date": "2026-10-28"
+  },
+  {
+    "system_name": "Reviews",
+    "slug": "reviews-grain-salt-calculator",
+    "title": "Reviews Sizing, Salt Dose & GPG Hardness Calculator (2026)",
+    "description": "Calculate exact daily grain load (5,100 grains/day), optimal brine salt dosage (12.0 lbs), regeneration frequency (7 days), and RO pairing for Reviews.",
+    "grains": 48000,
+    "cuft": 1.5,
+    "flow_gpm": 12.5,
+    "date": "2026-10-29"
+  },
+  {
+    "system_name": "Valve",
+    "slug": "valve-grain-salt-calculator",
+    "title": "Valve Sizing, Salt Dose & GPG Hardness Calculator (2026)",
+    "description": "Calculate exact daily grain load (5,100 grains/day), optimal brine salt dosage (12.0 lbs), regeneration frequency (7 days), and RO pairing for Valve.",
+    "grains": 48000,
+    "cuft": 1.5,
+    "flow_gpm": 12.5,
+    "date": "2026-10-29"
+  },
+  {
+    "system_name": "Series",
+    "slug": "series-grain-salt-calculator",
+    "title": "Series Sizing, Salt Dose & GPG Hardness Calculator (2026)",
+    "description": "Calculate exact daily grain load (5,100 grains/day), optimal brine salt dosage (12.0 lbs), regeneration frequency (7 days), and RO pairing for Series.",
+    "grains": 48000,
+    "cuft": 1.5,
+    "flow_gpm": 12.5,
+    "date": "2026-10-29"
   }
 ]

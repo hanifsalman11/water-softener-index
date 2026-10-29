@@ -7,6 +7,24 @@
     <atom:link href="https://hanifsalman11.github.io/water-softener-index/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
     <item>
+      <title>Series Sizing, Salt Dose & GPG Hardness Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/water-softener-index/series-grain-salt-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/water-softener-index/series-grain-salt-calculator.html</guid>
+      <description>Calculate exact daily grain load (5,100 grains/day), optimal brine salt dosage (12.0 lbs), regeneration frequency (7 days), and RO pairing for Series.</description>
+    </item>
+    <item>
+      <title>Valve Sizing, Salt Dose & GPG Hardness Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/water-softener-index/valve-grain-salt-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/water-softener-index/valve-grain-salt-calculator.html</guid>
+      <description>Calculate exact daily grain load (5,100 grains/day), optimal brine salt dosage (12.0 lbs), regeneration frequency (7 days), and RO pairing for Valve.</description>
+    </item>
+    <item>
+      <title>Reviews Sizing, Salt Dose & GPG Hardness Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/water-softener-index/reviews-grain-salt-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/water-softener-index/reviews-grain-salt-calculator.html</guid>
+      <description>Calculate exact daily grain load (5,100 grains/day), optimal brine salt dosage (12.0 lbs), regeneration frequency (7 days), and RO pairing for Reviews.</description>
+    </item>
+    <item>
       <title>Regeneration Sizing, Salt Dose & GPG Hardness Calculator (2026)</title>
       <link>https://hanifsalman11.github.io/water-softener-index/regeneration-grain-salt-calculator.html</link>
       <guid>https://hanifsalman11.github.io/water-softener-index/regeneration-grain-salt-calculator.html</guid>
@@ -167,24 +185,6 @@
       <link>https://hanifsalman11.github.io/water-softener-index/softpro-elite-48000-grain-upflow-high-efficiency-softener-grain-salt-calculator.html</link>
       <guid>https://hanifsalman11.github.io/water-softener-index/softpro-elite-48000-grain-upflow-high-efficiency-softener-grain-salt-calculator.html</guid>
       <description>Calculate exact daily grain load (5,400 grains/day), optimal brine salt dosage (12.0 lbs), regeneration frequency (7 days), and RO pairing for SoftPro Elite 48,000 Grain Upflow High-Efficiency Softener.</description>
-    </item>
-    <item>
-      <title>DuraWater Fleck 5600SXT 64,000 Grain Upflow Softener Sizing, Salt Dose & GPG Hardness Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/water-softener-index/durawater-fleck-5600sxt-64000-grain-upflow-softener-grain-salt-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/water-softener-index/durawater-fleck-5600sxt-64000-grain-upflow-softener-grain-salt-calculator.html</guid>
-      <description>Calculate exact daily grain load (8,250 grains/day), optimal brine salt dosage (16.0 lbs), regeneration frequency (6 days), and RO pairing for DuraWater Fleck 5600SXT 64,000 Grain Upflow Softener.</description>
-    </item>
-    <item>
-      <title>AFWFilters Fleck 5600SXT 48K 10% Crosslink Resin System Sizing, Salt Dose & GPG Hardness Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/water-softener-index/afwfilters-fleck-5600sxt-48k-10-crosslink-resin-system-grain-salt-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/water-softener-index/afwfilters-fleck-5600sxt-48k-10-crosslink-resin-system-grain-salt-calculator.html</guid>
-      <description>Calculate exact daily grain load (5,100 grains/day), optimal brine salt dosage (12.0 lbs), regeneration frequency (7 days), and RO pairing for AFWFilters Fleck 5600SXT 48K 10% Crosslink Resin System.</description>
-    </item>
-    <item>
-      <title>Fleck 2510SXT 64,000 Grain Heavy-Duty Well Water System Sizing, Salt Dose & GPG Hardness Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/water-softener-index/fleck-2510sxt-64000-grain-heavy-duty-well-water-system-grain-salt-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/water-softener-index/fleck-2510sxt-64000-grain-heavy-duty-well-water-system-grain-salt-calculator.html</guid>
-      <description>Calculate exact daily grain load (12,000 grains/day), optimal brine salt dosage (16.0 lbs), regeneration frequency (4 days), and RO pairing for Fleck 2510SXT 64,000 Grain Heavy-Duty Well Water System.</description>
     </item>
   </channel>
 </rss>
