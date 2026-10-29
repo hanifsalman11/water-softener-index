@@ -478,5 +478,35 @@
     "cuft": 1.5,
     "flow_gpm": 12.5,
     "date": "2026-10-29"
+  },
+  {
+    "system_name": "Series 48 000",
+    "slug": "series-48-000-grain-salt-calculator",
+    "title": "Series 48 000 Sizing, Salt Dose & GPG Hardness Calculator (2026)",
+    "description": "Calculate exact daily grain load (5,100 grains/day), optimal brine salt dosage (12.0 lbs), regeneration frequency (7 days), and RO pairing for Series 48 000.",
+    "grains": 48000,
+    "cuft": 1.5,
+    "flow_gpm": 12.5,
+    "date": "2026-10-29"
+  },
+  {
+    "system_name": "Series 64 000",
+    "slug": "series-64-000-grain-salt-calculator",
+    "title": "Series 64 000 Sizing, Salt Dose & GPG Hardness Calculator (2026)",
+    "description": "Calculate exact daily grain load (5,100 grains/day), optimal brine salt dosage (12.0 lbs), regeneration frequency (7 days), and RO pairing for Series 64 000.",
+    "grains": 48000,
+    "cuft": 1.5,
+    "flow_gpm": 12.5,
+    "date": "2026-10-29"
+  },
+  {
+    "system_name": "Series Water Softener",
+    "slug": "series-water-softener-grain-salt-calculator",
+    "title": "Series Water Softener Sizing, Salt Dose & GPG Hardness Calculator (2026)",
+    "description": "Calculate exact daily grain load (5,100 grains/day), optimal brine salt dosage (12.0 lbs), regeneration frequency (7 days), and RO pairing for Series Water Softener.",
+    "grains": 48000,
+    "cuft": 1.5,
+    "flow_gpm": 12.5,
+    "date": "2026-10-29"
   }
 ]
