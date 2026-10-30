@@ -538,5 +538,35 @@
     "cuft": 1.5,
     "flow_gpm": 12.5,
     "date": "2026-10-29"
+  },
+  {
+    "system_name": "Best Salt Setting  Water Softener",
+    "slug": "best-salt-setting-water-softener-grain-salt-calculator",
+    "title": "Best Salt Setting  Water Softener Sizing, Salt Dose & GPG Hardness Calculator (2026)",
+    "description": "Calculate exact daily grain load (5,100 grains/day), optimal brine salt dosage (12.0 lbs), regeneration frequency (7 days), and RO pairing for Best Salt Setting  Water Softener.",
+    "grains": 48000,
+    "cuft": 1.5,
+    "flow_gpm": 12.5,
+    "date": "2026-10-30"
+  },
+  {
+    "system_name": "Water Softener Salt Level Setting",
+    "slug": "water-softener-salt-level-setting-grain-salt-calculator",
+    "title": "Water Softener Salt Level Setting Sizing, Salt Dose & GPG Hardness Calculator (2026)",
+    "description": "Calculate exact daily grain load (5,100 grains/day), optimal brine salt dosage (12.0 lbs), regeneration frequency (7 days), and RO pairing for Water Softener Salt Level Setting.",
+    "grains": 48000,
+    "cuft": 1.5,
+    "flow_gpm": 12.5,
+    "date": "2026-10-30"
+  },
+  {
+    "system_name": "How Long Does Salt In Water Softener Last",
+    "slug": "how-long-does-salt-in-water-softener-last-grain-salt-calculator",
+    "title": "How Long Does Salt In Water Softener Last Sizing, Salt Dose & GPG Hardness Calculator (2026)",
+    "description": "Calculate exact daily grain load (5,100 grains/day), optimal brine salt dosage (12.0 lbs), regeneration frequency (7 days), and RO pairing for How Long Does Salt In Water Softener Last.",
+    "grains": 48000,
+    "cuft": 1.5,
+    "flow_gpm": 12.5,
+    "date": "2026-10-30"
   }
 ]
