@@ -568,5 +568,15 @@
     "cuft": 1.5,
     "flow_gpm": 12.5,
     "date": "2026-10-30"
+  },
+  {
+    "system_name": "3 Bedroom House",
+    "slug": "3-bedroom-house-grain-salt-calculator",
+    "title": "3 Bedroom House Sizing, Salt Dose & GPG Hardness Calculator (2026)",
+    "description": "Calculate exact daily grain load (5,100 grains/day), optimal brine salt dosage (12.0 lbs), regeneration frequency (7 days), and RO pairing for 3 Bedroom House.",
+    "grains": 48000,
+    "cuft": 1.5,
+    "flow_gpm": 12.5,
+    "date": "2026-11-04"
   }
 ]
