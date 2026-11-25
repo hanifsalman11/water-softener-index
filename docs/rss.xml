@@ -7,6 +7,12 @@
     <atom:link href="https://hanifsalman11.github.io/water-softener-index/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
     <item>
+      <title>Series Reviews Sizing, Salt Dose & GPG Hardness Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/water-softener-index/series-reviews-grain-salt-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/water-softener-index/series-reviews-grain-salt-calculator.html</guid>
+      <description>Calculate exact daily grain load (5,100 grains/day), optimal brine salt dosage (12.0 lbs), regeneration frequency (7 days), and RO pairing for Series Reviews.</description>
+    </item>
+    <item>
       <title>Vs Aquasure Harmony Sizing, Salt Dose & GPG Hardness Calculator (2026)</title>
       <link>https://hanifsalman11.github.io/water-softener-index/vs-aquasure-harmony-grain-salt-calculator.html</link>
       <guid>https://hanifsalman11.github.io/water-softener-index/vs-aquasure-harmony-grain-salt-calculator.html</guid>
@@ -179,12 +185,6 @@
       <link>https://hanifsalman11.github.io/water-softener-index/family-of-4-grain-salt-calculator.html</link>
       <guid>https://hanifsalman11.github.io/water-softener-index/family-of-4-grain-salt-calculator.html</guid>
       <description>Calculate exact daily grain load (5,100 grains/day), optimal brine salt dosage (12.0 lbs), regeneration frequency (7 days), and RO pairing for Family Of 4.</description>
-    </item>
-    <item>
-      <title>Texas & Midwest Limestone Well Water (22 GPG / 375 ppm) Sizing, Salt Dose & GPG Hardness Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/water-softener-index/texas-midwest-limestone-well-water-22-gpg-375-ppm-grain-salt-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/water-softener-index/texas-midwest-limestone-well-water-22-gpg-375-ppm-grain-salt-calculator.html</guid>
-      <description>Calculate exact daily grain load (8,400 grains/day), optimal brine salt dosage (16.0 lbs), regeneration frequency (6 days), and RO pairing for Texas & Midwest Limestone Well Water (22 GPG / 375 ppm).</description>
     </item>
   </channel>
 </rss>
