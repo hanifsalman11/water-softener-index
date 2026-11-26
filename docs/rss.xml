@@ -7,6 +7,12 @@
     <atom:link href="https://hanifsalman11.github.io/water-softener-index/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
     <item>
+      <title>48000 Sizing, Salt Dose & GPG Hardness Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/water-softener-index/48000-grain-salt-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/water-softener-index/48000-grain-salt-calculator.html</guid>
+      <description>Calculate exact daily grain load (5,100 grains/day), optimal brine salt dosage (12.0 lbs), regeneration frequency (7 days), and RO pairing for 48000.</description>
+    </item>
+    <item>
       <title>Series Reviews Sizing, Salt Dose & GPG Hardness Calculator (2026)</title>
       <link>https://hanifsalman11.github.io/water-softener-index/series-reviews-grain-salt-calculator.html</link>
       <guid>https://hanifsalman11.github.io/water-softener-index/series-reviews-grain-salt-calculator.html</guid>
@@ -179,12 +185,6 @@
       <link>https://hanifsalman11.github.io/water-softener-index/family-of-2-grain-salt-calculator.html</link>
       <guid>https://hanifsalman11.github.io/water-softener-index/family-of-2-grain-salt-calculator.html</guid>
       <description>Calculate exact daily grain load (5,100 grains/day), optimal brine salt dosage (12.0 lbs), regeneration frequency (7 days), and RO pairing for Family Of 2.</description>
-    </item>
-    <item>
-      <title>Family Of 4 Sizing, Salt Dose & GPG Hardness Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/water-softener-index/family-of-4-grain-salt-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/water-softener-index/family-of-4-grain-salt-calculator.html</guid>
-      <description>Calculate exact daily grain load (5,100 grains/day), optimal brine salt dosage (12.0 lbs), regeneration frequency (7 days), and RO pairing for Family Of 4.</description>
     </item>
   </channel>
 </rss>
